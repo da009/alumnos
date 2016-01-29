@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Alumnos()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Alumnos\r\n
+comment1.params=
+comment1.target=int\ numRandom()
+comment1.text=\r\n\ Asigna\ un\ valor\ aleatorio\ a\ cada\ alumno.\r\n
+comment2.params=
+comment2.target=void\ a\u00F1adirAlumnosAuto()
+comment3.params=
+comment3.target=void\ mostrarAlumnos()
+comment4.params=
+comment4.target=void\ deshordenar()
+numComments=5
